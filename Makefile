@@ -45,5 +45,5 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile'
+	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-remix-prototype-mate-with-compiz/iso-profile'
 .PHONY: tips-next-step

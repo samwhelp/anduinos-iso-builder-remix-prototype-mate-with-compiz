@@ -1,6 +1,6 @@
 
 
-# anduinos-iso-builder-remix-mate-with-compiz
+# anduinos-iso-builder-remix-prototype-mate-with-compiz
 
 
 
@@ -9,6 +9,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [AnduinOS / ISO Builder / Remix Prototype / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-prototype-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz) |
 | [AnduinOS / ISO Builder / Remix / Mate with Compiz](https://samwhelp.github.io/anduinos-iso-builder-remix-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz) |
 | [AnduinOS / ISO Builder / Remix / Mate](https://samwhelp.github.io/anduinos-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-mate) |
 | [AnduinOS / ISO Builder / Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
@@ -39,18 +40,18 @@
 
 | Main Module | Purpose |
 | ----------- | ------- |
-| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) | [install package](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install) |
-| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) | [install file](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay) |
+| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) | [install package](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install) |
+| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) | [install file](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay) |
 
 
 | Infrastructure | Purpose |
 | -------------- | ------- |
-| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) | [/etc/dconf](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf) |
-| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
+| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) | [/etc/dconf](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf) |
+| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
 
 
-* [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/blob/main/helper/docs/module/module-ignored.md)
-* [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/blob/main/helper/docs/module/module-adjusted.md)
+* [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/blob/main/helper/docs/module/module-ignored.md)
+* [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz/blob/main/helper/docs/module/module-adjusted.md)
 
 
 
@@ -92,17 +93,17 @@ sudo apt-get install git
 ```
 
 
-> clone [anduinos-iso-builder-remix-mate-with-compiz](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz)
+> clone [anduinos-iso-builder-remix-prototype-mate-with-compiz](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz)
 
 ``` sh
-git clone https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz.git
+git clone https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-mate-with-compiz.git
 ```
 
 
-> change dir to `anduinos-iso-builder-remix-mate-with-compiz`
+> change dir to `anduinos-iso-builder-remix-prototype-mate-with-compiz`
 
 ``` sh
-cd anduinos-iso-builder-remix-mate-with-compiz
+cd anduinos-iso-builder-remix-prototype-mate-with-compiz
 ```
 
 
@@ -118,10 +119,10 @@ make combine-via-git
 ### Build All
 
 
-> change dir to `~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile`
+> change dir to `~/work/anduinos-iso-builder-remix-prototype-mate-with-compiz/iso-profile`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile
+cd ~/work/anduinos-iso-builder-remix-prototype-mate-with-compiz/iso-profile
 ```
 
 
@@ -144,10 +145,10 @@ make build-fast
 ### Build Default
 
 
-> change dir to `~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile/src`
+> change dir to `~/work/anduinos-iso-builder-remix-prototype-mate-with-compiz/iso-profile/src`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile/src
+cd ~/work/anduinos-iso-builder-remix-prototype-mate-with-compiz/iso-profile/src
 ```
 
 
